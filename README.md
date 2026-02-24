@@ -18,13 +18,13 @@ To analyze Indian Premier League (IPL) match data and extract meaningful insight
 
 🛠 Tools & Technologies
 
-Power BI
+- Power BI
 
-DAX
+- DAX
 
-Data Modeling
+- Data Modeling
 
-Data Cleaning
+- Data Cleaning
 
 Data Visualization
 
@@ -40,9 +40,7 @@ Data Visualization
 
 🏟 Venue-wise match statistics
 
-📁 File Included
-
-IPL Data Analysis - Power BI.pbix
+📁 File Included - IPL Data Analysis - Power BI.pbix
 
 🐍 Python Data Analysis Project
 4
@@ -52,56 +50,54 @@ To perform data analysis using Python and extract meaningful patterns through Ex
 
 🛠 Tools & Libraries
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Jupyter Notebook
+- Jupyter Notebook
 
 📊 Features
 
-Data Cleaning & Preprocessing
+- Data Cleaning & Preprocessing
 
-Handling Missing Values
+- Handling Missing Values
 
-Statistical Analysis
+- Statistical Analysis
 
-Data Visualization
+- Data Visualization
 
-Insight Generation
+- Insight Generation
 
-📁 File Included
-
-project-1 Python.ipynb
+📁 File Included - project-1 Python.ipynb
 
 📈 Skills Demonstrated
 
-Data Cleaning
+- Data Cleaning
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Data Visualization
+- Data Visualization
 
-Dashboard Development
+- Dashboard Development
 
-Business Insight Generation
+- Business Insight Generation
 
-Analytical Thinking
+- Analytical Thinking
 
 🎯 Why This Project?
 
 As a Data Analytics Fresher, this project showcases my ability to:
 
-Work with real-world datasets
+- Work with real-world datasets
 
-Build interactive dashboards
+- Build interactive dashboards
 
-Use Python for data analysis
+- Use Python for data analysis
 
-Present insights in a clear and professional way
+- Present insights in a clear and professional way
